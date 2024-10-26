@@ -207,3 +207,25 @@ img{
     background: black;
     color: #fff;
 }
+
+/*login*/
+
+.container .login-form
+{
+    background: var(--light-color);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+/*about*/
+
+.container-about{
+    background: var(--light-color);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.about-text{
+    width: 70%;
+    margin-bottom: 20px;
+}
